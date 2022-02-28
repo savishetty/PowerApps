@@ -1,2 +1,2 @@
 # PowerApps
-All powerapps are storied
+All powerapps are stored
